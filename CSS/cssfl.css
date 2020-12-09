@@ -1,4 +1,48 @@
-.rounded
+div.conditions
 {
-	border-image-width: 200;
+	background-color: #F0FFFF;
+}
+div.daily-routine
+{
+	background-color: #5F9EA0;
+}
+div.bathroom-schedule
+{
+	background-color: #87CEFA;
+}
+div.friends
+{
+	background-color: #B0E0E6;
+}
+div.leonard
+{
+	background-color: #FFFACD;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	background-size: 300px;
+}
+div.howard
+{
+    background-color: #00FA9A;
+    border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	background-size: 300px;
+}
+div.raj
+{
+    background-color: #DCDCDC;
+    border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	background-size: 300px;
+}
+div.penny
+{
+    background-color: #9370DB;
+    border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	background-size: 300px;
 }
