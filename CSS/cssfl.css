@@ -1,48 +1,36 @@
-div.conditions
+body
 {
-	background-color: #F0FFFF;
+	font-family: fantasy;
+	font-size: 20px;
+	margin: 0;
+	width: 100vw;
+	text-align: center;
 }
-div.daily-routine
+header
 {
-	background-color: #5F9EA0;
+    background-color: lightgrey;
+    padding: 1rem;
+    height: 100vh;
 }
-div.bathroom-schedule
+header img
 {
-	background-color: #87CEFA;
+	border-radius: 75%;
+	padding: 0.5rem;
 }
-div.friends
+.conditions
 {
-	background-color: #B0E0E6;
+	font-family: cursive;
+	font-size: 20px;
+	background-image: url("https://cdn.suwalls.com/wallpapers/tv-shows/bazinga-the-big-bang-theory-49659-1920x1080.jpg");
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+	font-weight: bolder;
+	
 }
-div.leonard
+ul
 {
-	background-color: #FFFACD;
-	border-width: 5px;
-	border-style: solid;
-	border-color: black;
-	background-size: 300px;
-}
-div.howard
-{
-    background-color: #00FA9A;
-    border-width: 5px;
-	border-style: solid;
-	border-color: black;
-	background-size: 300px;
-}
-div.raj
-{
-    background-color: #DCDCDC;
-    border-width: 5px;
-	border-style: solid;
-	border-color: black;
-	background-size: 300px;
-}
-div.penny
-{
-    background-color: #9370DB;
-    border-width: 5px;
-	border-style: solid;
-	border-color: black;
-	background-size: 300px;
+	list-style: none;
+	text-align: left;
 }
